@@ -1,0 +1,91 @@
+{
+  "seller": [
+    {
+      "name": "Bibek kumar sah",
+      "password": "12345",
+      "email": "bibeksah618@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "demo prasnat",
+      "password": "demo12345",
+      "email": "demo@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "test",
+      "password": "12345",
+      "email": "test@gmail.com",
+      "id": 6
+    }
+  ],
+  "products": [
+    {
+      "name": "iphone 16",
+      "price": "100000",
+      "category": "Mobile",
+      "color": "Golden",
+      "description": "asedrftg",
+      "image": "https://images.unsplash.com/photo-1616410011236-7a42121dd981?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": 1
+    },
+    {
+      "name": "iphone 12",
+      "price": "100000",
+      "category": "Mobile",
+      "color": "Golden",
+      "description": "asedrftg",
+      "image": "https://images.unsplash.com/photo-1616410011236-7a42121dd981?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": 2
+    },
+    {
+      "name": "Truck",
+      "price": "12111",
+      "category": "Toy",
+      "color": "Red",
+      "description": "Demo test",
+      "image": "https://plus.unsplash.com/premium_photo-1664695368767-c42483a0bda1?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": 3
+    },
+    {
+      "name": "Laptop",
+      "price": "120000",
+      "category": "Electroncs",
+      "color": "Black",
+      "description": "laptop for sell",
+      "image": "https://plus.unsplash.com/premium_photo-1681666713677-8bd559bef6bb?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": 4
+    },
+    {
+      "name": "Computer",
+      "price": "120000",
+      "category": "Electroncs",
+      "color": "blue",
+      "description": "Computers details",
+      "image": "https://images.unsplash.com/photo-1618339220157-daa2cd9ade56?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": 5
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "email": "kavi@gmail.com",
+      "address": "Ramnagari, 08",
+      "contact": "qwedsa",
+      "totalPrice": 148544,
+      "id": 1
+    },
+    {
+      "email": "bibeksah618@gmail.com",
+      "address": "Ramnagari, 08",
+      "contact": "asd",
+      "totalPrice": 480100,
+      "id": 2
+    }
+  ],
+  "users": {
+    "name": "bibek",
+    "email": "bibek@gmail.com",
+    "password": "bibek"
+  }
+}
